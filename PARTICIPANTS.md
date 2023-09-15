@@ -96,6 +96,7 @@
 | Kadu | [rinha-de-compiladores](https://github.com/Kadu-H/rinha-de-compiladores) | Estudando | JavaScript | Tree-Walking Interpreter | [`@kadux.07`](https://www.instagram.com/kadux.07/) |
 | Edmar Sousa | [rinha-compilador](https://github.com/Edmar-Sousa/rinha-compilador) | Em desenvolvimento | C++ | Tree-Walking Interpreter | [Github](https://github.com/Edmar-Sousa)
 | ghhernandes | [rinha-compiler-go](https://github.com/ghhernandes/rinha-compiler-go) | WIP | Golang | Tree-Walking Interpreter | [Twitter](https://twitter.com/ghhernandes) |
+| orvituhgo | [rinha-de-compiler](https://github.com/orvituhgo/rinha-de-compiler) | Todo | Mojo/Bun | Tree-Walking Interpreter | [Twitter]([https://twitter.com/ghhernandes](https://www.linkedin.com/in/vitor-alves-a1ab37173/)) |
 
 **Tipos de projeto:**
 | Nome                       | Descrição / Link para recursos explicando       |
